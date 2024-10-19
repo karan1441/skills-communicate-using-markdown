@@ -1,4 +1,4 @@
-# adding headers
+# excersie github markdowns
 ### /# is a symbol to add headers in github this s markup
 
 
@@ -20,3 +20,7 @@ var first = 1;
 var second = 2;
 var sum = first + second;
 ```
+> This is list of tasks.
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
